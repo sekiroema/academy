@@ -1,7 +1,7 @@
 import React from "react";
 import './Header.css'
 import head from '../../../public/images/552.jpg'
-import php from '../../../public/images/php.png'
+import php from '../../../public/images/php-logo.svg'
 import js from '../../../public/images/js.png'
 import jquery from '../../../public/images/jquery.svg'
 import html from '../../../public/images/HTML.svg'
