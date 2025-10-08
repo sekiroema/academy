@@ -1,7 +1,7 @@
 import React from "react";
 import './Header.css'
 import head from '../../../public/images/552.jpg'
-import php from '../../../public/images/php-logo.svg'
+// import php from '../../../public/images/php-logo.svg'
 import js from '../../../public/images/js.png'
 import jquery from '../../../public/images/jquery.svg'
 import html from '../../../public/images/HTML.svg'
@@ -17,10 +17,6 @@ import laravel from '../../../public/images/laravel.png'
 import mysql from '../../../public/images/Database.png'
 import fire from '../../../public/images/firebase.png'
 import vite from '../../../public/images/Vitejs-logo.svg.png'
-
-
-
-
 
 
 export default function Home(){
@@ -47,7 +43,7 @@ export default function Home(){
             <img src={fire} className="w-15 h-15  hover:w-25"  alt="" />
             <img src={git} className="w-15 h-15  hover:w-25"  alt="" />
             <img src={github} className="w-15 h-15  hover:w-25"  alt="" />
-            <img src={php} className="w-15 h-15 hover:w-25"  alt="" />
+            {/* <img src={php} className="w-15 h-15 hover:w-25"  alt="" /> */}
             <img src={laravel} className="w-15 h-15  hover:w-25"  alt="" />
             <img src={node} className="w-15 h-15  hover:w-25"  alt="" />
             <img src={mysql} className="w-15 h-15  hover:w-25"  alt="" />
