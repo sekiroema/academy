@@ -1,0 +1,5 @@
+{
+    "trwrites":[
+        {"source":"/(.*)","destination":"/"}
+    ]
+}
