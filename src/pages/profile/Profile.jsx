@@ -3,7 +3,7 @@ import { authContext } from '../../context/AuthContext';
 import  './Profile.css'
 import React, { useContext } from "react";
 import { Navigate } from 'react-router-dom';
-import { CountryContext } from '../../context/countryContext';
+import { CountryContext } from '../../context/CountryContext';
 
 export default function Profile(){
     const {country ,selected , setSelected } = useContext(CountryContext);

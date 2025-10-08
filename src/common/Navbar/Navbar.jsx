@@ -8,7 +8,7 @@ import { useState, useContext } from 'react';
 import { CartContext } from "../../context/CartContext";
 import { authContext } from '../../context/AuthContext';
 import { useNavigate } from "react-router-dom";
-import { CountryContext } from "../../context/countryContext";
+import { CountryContext } from "../../context/CountryContext";
 
 
 export default function Navbar(){
