@@ -3,7 +3,7 @@ import './Track.css'
 import img from '../../../public/images/66.png'
 import front from '../../../public/images/front.png'
 import back from '../../../public/images/back.png'
-import flutter from '../../../public/images/ff.WEBP'
+import flutter from '../../../public/images/ff.webp'
 import {Swiper , SwiperSlide} from 'swiper/react';
 import 'swiper/css';
 import 'swiper/css/pagination';
