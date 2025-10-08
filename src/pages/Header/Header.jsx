@@ -2,21 +2,21 @@ import React from "react";
 import './Header.css'
 import head from '../../../public/images/552.jpg'
 // import php from '../../../public/images/php-logo.svg'
-import js from '../../../public/images/js.png'
-import jquery from '../../../public/images/jquery.svg'
-import html from '../../../public/images/HTML.svg'
-import css from '../../../public/images/CSS3_logo.svg'
-import react from '../../../public/images/react.svg'
-import node from '../../../public/images/node.png'
-import bootstrap from '../../../public/images/Bootstrap.svg'
-import tailwind from '../../../public/images/tailwind.svg'
-import npm from '../../../public/images/npm.png'
-import git from '../../../public/images/Git_icon.svg.png'
-import github from '../../../public/images/github.svg'
-import laravel from '../../../public/images/laravel.png'
-import mysql from '../../../public/images/Database.png'
-import fire from '../../../public/images/firebase.png'
-import vite from '../../../public/images/Vitejs-logo.svg.png'
+// import js from '../../../public/images/js.png'
+// import jquery from '../../../public/images/jquery.svg'
+// import html from '../../../public/images/HTML.svg'
+// import css from '../../../public/images/CSS3_logo.svg'
+// import react from '../../../public/images/react.svg'
+// import node from '../../../public/images/node.png'
+// import bootstrap from '../../../public/images/Bootstrap.svg'
+// import tailwind from '../../../public/images/tailwind.svg'
+// import npm from '../../../public/images/npm.png'
+// import git from '../../../public/images/Git_icon.svg.png'
+// import github from '../../../public/images/github.svg'
+// import laravel from '../../../public/images/laravel.png'
+// import mysql from '../../../public/images/Database.png'
+// import fire from '../../../public/images/firebase.png'
+// import vite from '../../../public/images/Vitejs-logo.svg.png'
 
 
 export default function Home(){
@@ -30,7 +30,7 @@ export default function Home(){
         </div>
 
         </section>
-            <div className=" typeicon w-full flex items-center justify-center gap-2 py-2">
+            {/* <div className=" typeicon w-full flex items-center justify-center gap-2 py-2">
             <img src={html} className="w-15 h-15  hover:w-25"  alt="" />
             <img src={css} className="w-15 h-15  hover:w-25"  alt="" />
             <img src={js} className="w-15 h-15  hover:w-25"  alt="" />
@@ -43,12 +43,11 @@ export default function Home(){
             <img src={fire} className="w-15 h-15  hover:w-25"  alt="" />
             <img src={git} className="w-15 h-15  hover:w-25"  alt="" />
             <img src={github} className="w-15 h-15  hover:w-25"  alt="" />
-            {/* <img src={php} className="w-15 h-15 hover:w-25"  alt="" /> */}
+            <img src={php} className="w-15 h-15 hover:w-25"  alt="" />
             <img src={laravel} className="w-15 h-15  hover:w-25"  alt="" />
             <img src={node} className="w-15 h-15  hover:w-25"  alt="" />
             <img src={mysql} className="w-15 h-15  hover:w-25"  alt="" />
-
-            </div>
+            </div> */}
 
       </>
     )
