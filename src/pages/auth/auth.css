@@ -1,0 +1,9 @@
+
+
+.invalid {
+    border: 2px solid red;
+}
+.authbtn:disabled {
+    background-color: #e29d2d;
+    cursor: not-allowed;
+}
