@@ -1,4 +1,3 @@
-import React, { Children } from "react";
 import { lazy , Suspense } from 'react';
 import LottiHandeler from "./assets/Lottifiles/LottiHandeler";
 // import toast, { Toaster } from 'react-hot-toast';
@@ -13,7 +12,7 @@ const Track = lazy(()=> import('./pages/track/Track'))
 const Cart = lazy(()=> import('./pages/Cart/Cart'))
 const Register = lazy(()=> import('./pages/auth/Register'))
 const Login = lazy(()=> import('./pages/auth/Login'))
-const Profile = lazy(()=> import('./pages/Profile/Profile'))
+const Profile = lazy(()=> import('./pages/profile/Profile'))
 
 
 export default function App(){
