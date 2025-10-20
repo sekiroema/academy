@@ -1,7 +1,16 @@
 {
-//   "$schema": "https://openapi.vercel.sh/vercel.json",
-
-    "trwrites":[
-        {"source":"/(.*)","destination":"/"}
-    ]
+"version": 2,
+"builds":[
+    {
+        "src": "package.json",
+        "use": "@vercel/static-build",
+        "config": {"disDir": "dist"}
+    }
+],
+"routes":[
+    {
+        "src": "/(.*)",
+        "dest": "/index.html"
+    }
+]
 }
