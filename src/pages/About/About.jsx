@@ -4,7 +4,7 @@ import { MdMyLocation } from "react-icons/md";
 import { FaRegMessage } from "react-icons/fa6";
 import { FaPhoneAlt } from "react-icons/fa";
 
-import img from "../../../public/images/programmer.webp"
+import img from "/images/programmer.webp"
 export default function About(){
 
 

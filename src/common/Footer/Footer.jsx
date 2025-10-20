@@ -1,14 +1,14 @@
 import React from "react";
 import './Footer.css'
-import visa from '../../../public/images/eg.webp'
+import visa from '/images/eg.webp'
 import Options from "./Options";
 import { TiSocialFacebook } from "react-icons/ti";
 import { FaTwitter } from "react-icons/fa6";
 import { FaInstagram } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
-// import logo from "../../../public/image/imgi_1030_5b0339e5-e2f3-4970-84ab-1ee4497cd9ca.png"
-import logo from "../../../public/images/feature.webp"
+// import logo from "/image/imgi_1030_5b0339e5-e2f3-4970-84ab-1ee4497cd9ca.png"
+import logo from "/images/feature.webp"
 
 
 export default function Footer(){

@@ -8,31 +8,31 @@ const people = [
     id: 1,
     name: 'Instructor 1 ',
     role: 'Co-Founder / CEO',
-    imageUrl: '../../../public/images/team1.jpg'
+    imageUrl: '/images/team1.jpg'
   },
   { 
     id: 2,
     name: 'Instructor 2',
     role: 'Flutter Developer',
-    imageUrl: '../../../public/images/team2.jpg'
+    imageUrl: '/images/team2.jpg'
   },
   { 
     id: 3,
     name: 'Instructor 3',
     role: 'Back-end Developer',
-    imageUrl: '../../../public/images/team3.jpg'
+    imageUrl: '/images/team3.jpg'
   },
   { 
     id: 4,
     name: 'Instructor 4',
     role: 'Front-end Developer',
-    imageUrl: '../../../public/images/team4.jpg'
+    imageUrl: '/images/team4.jpg'
   },
   {
     id: 5,
     name: 'Instructor 5',
     role: 'UI/UX Designer',
-    imageUrl: '../../../public/images/team5.png'
+    imageUrl: '/images/team5.png'
   },
 ]
 

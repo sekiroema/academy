@@ -1,16 +1,16 @@
 import React, { useEffect } from "react";
-import opn1 from '../../../public/images/opn1.jpg'
-import opn2 from '../../../public/images/opn2.jpg'
-import opn3 from '../../../public/images/opn3.jpg'
-import opn4 from '../../../public/images/opn4.jpg'
-import opn5 from '../../../public/images/opn5.jpg'
-import opn6 from '../../../public/images/opn6.jpg'
-import opn7 from '../../../public/images/opn7.jpg'
-import opn8 from '../../../public/images/opn8.jpg'
-import opn10 from '../../../public/images/opn10.jpg'
-import opn11 from '../../../public/images/opn11.jpg'
-import opn9 from '../../../public/images/opn9.jpg'
-import opn12 from '../../../public/images/opn12.jpg'
+import opn1 from '/images/opn1.jpg'
+import opn2 from '/images/opn2.jpg'
+import opn3 from '/images/opn3.jpg'
+import opn4 from '/images/opn4.jpg'
+import opn5 from '/images/opn5.jpg'
+import opn6 from '/images/opn6.jpg'
+import opn7 from '/images/opn7.jpg'
+import opn8 from '/images/opn8.jpg'
+import opn10 from '/images/opn10.jpg'
+import opn11 from '/images/opn11.jpg'
+import opn9 from '/images/opn9.jpg'
+import opn12 from '/images/opn12.jpg'
 import { useKeenSlider } from "keen-slider/react"
 import "keen-slider/keen-slider.min.css"
 
