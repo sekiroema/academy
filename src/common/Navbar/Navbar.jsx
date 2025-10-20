@@ -3,7 +3,7 @@ import { FaCartArrowDown } from "react-icons/fa";
 import { IoIosPersonAdd } from "react-icons/io";
 import { GrHelpBook } from "react-icons/gr";
 import { IoMdMenu } from "react-icons/io";
-import logo from "../../../public/images/feature.webp"
+import logo from "/images/feature.webp"
 import { useState, useContext } from 'react';
 import { CartContext } from "../../context/CartContext";
 import { authContext } from '../../context/AuthContext';
